@@ -1,0 +1,61 @@
+
+.div{
+    background-color: rgb(238, 216, 18);
+  }
+
+.yasob{
+    width: 20%;
+;
+}
+
+.about{
+   margin-right: 5%;
+
+   margin-left: 5%; 
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+
+    
+    }
+    .navbarSupportedContent{
+        color:red;
+    }
+    .about_img{
+        width: 8%;
+        border-radius: 20%;
+}
+.progress{
+    display: flex;
+    flex-direction: column;
+   width: 50%;
+   margin-top: 1%;
+   margin-left: 5%; 
+   margin-right: 5%; 
+}
+.parent-card{
+    margin-right: 5%;
+
+   margin-left: 5%; 
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+}
+.project{
+    width:40%;
+    align-items:self-end ;
+}
+
+.for-card{
+    display: flex;
+    flex-direction: column;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 5%; 
+    margin-right: 5%;
+    margin-right: 5%;
+
+}
